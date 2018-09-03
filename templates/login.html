@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/share_price_css.css') }}">
+</head>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+
+
+<body ng-app="">
+
+<div class="topbar">
+
+    <div class="inline-div"><h1>Share market Price Tracker</h1></div>
+
+    <div class="inline-div company" ><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Company name & date:</p></div>
+
+    <div class="inline-div search"><form method="post" action="/FlaskTutorial">
+    <input type="text" name="company" placeholder="Enter Company Name">
+        <input type="date" name="date"
+               placeholder="dd/mm/yyyy" min="2018-08-20"/>
+    <input type="submit" value="Submit" name="ok"/>
+</form></div>
+
+
+</div>
+
+
+
+
+<!--<script>
+function myFunction() {
+    var x = document.getElementById("gsc-i-id1").value;
+    document.getElementById("demo").innerHTML = x;
+
+    }
+    </script>
+--->
+
+
+</body>
+
+
+</html>

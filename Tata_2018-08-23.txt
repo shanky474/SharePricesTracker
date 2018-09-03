@@ -1,0 +1,7 @@
+['258.80', 'Aug 23, 14:28', ' -10.25 (-3.81%)', 'https://img-d05.moneycontrol.co.in/images/pricechart/new/red_arrow.jpg']
+['258.80', 'Aug 23, 14:28', ' -10.25 (-3.81%)', 'https://img-d05.moneycontrol.co.in/images/pricechart/new/red_arrow.jpg']
+['258.80', 'Aug 23, 14:28', ' -10.25 (-3.81%)', 'https://img-d05.moneycontrol.co.in/images/pricechart/new/red_arrow.jpg']
+['258.75', 'Aug 23, 14:34', ' -10.3 (-3.83%)', 'https://img-d05.moneycontrol.co.in/images/pricechart/new/red_arrow.jpg']
+['258.25', 'Aug 23, 14:39', ' -10.8 (-4.01%)', 'https://img-d05.moneycontrol.co.in/images/pricechart/new/red_arrow.jpg']
+['258.60', 'Aug 23, 14:44', ' -10.45 (-3.88%)', 'https://img-d05.moneycontrol.co.in/images/pricechart/new/red_arrow.jpg']
+['258.70', 'Aug 23, 14:52', ' -10.35 (-3.85%)', 'https://img-d05.moneycontrol.co.in/images/pricechart/new/red_arrow.jpg']

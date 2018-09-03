@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+
+
+.topbar{
+    display: inline-block;
+    width: 100%;
+    background: cyan;
+}
+
+
+.company{
+    text-align:left;
+    font-family:Calibri;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+.inline-div{
+    display: inline-block;
+}
+
+
+.search{
+    font-family:Calibri;
+    font-size: 32px;
+    background: cyan;
+     display: inline-block;
+    padding: 0px;
+}
+
+
